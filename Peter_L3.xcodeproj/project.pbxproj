@@ -12,6 +12,7 @@
 		BC956A971DB4E0CE0007A0E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC956A951DB4E0CE0007A0E9 /* Main.storyboard */; };
 		BC956A991DB4E0CE0007A0E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC956A981DB4E0CE0007A0E9 /* Assets.xcassets */; };
 		BC956A9C1DB4E0CE0007A0E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC956A9A1DB4E0CE0007A0E9 /* LaunchScreen.storyboard */; };
+		BC999C881DB8F1B5007DCB0E /* LoveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC999C871DB8F1B5007DCB0E /* LoveViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BC956A981DB4E0CE0007A0E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC956A9B1DB4E0CE0007A0E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC956A9D1DB4E0CE0007A0E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC999C871DB8F1B5007DCB0E /* LoveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoveViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				BC956A911DB4E0CE0007A0E9 /* AppDelegate.swift */,
 				BC956A931DB4E0CE0007A0E9 /* ViewController.swift */,
 				BC956A951DB4E0CE0007A0E9 /* Main.storyboard */,
+				BC999C871DB8F1B5007DCB0E /* LoveViewController.swift */,
 				BC956A981DB4E0CE0007A0E9 /* Assets.xcassets */,
 				BC956A9A1DB4E0CE0007A0E9 /* LaunchScreen.storyboard */,
 				BC956A9D1DB4E0CE0007A0E9 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				BC956A941DB4E0CE0007A0E9 /* ViewController.swift in Sources */,
 				BC956A921DB4E0CE0007A0E9 /* AppDelegate.swift in Sources */,
+				BC999C881DB8F1B5007DCB0E /* LoveViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +301,7 @@
 				BC956AA21DB4E0CE0007A0E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
